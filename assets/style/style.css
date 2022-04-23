@@ -1,0 +1,34 @@
+/*slider*/
+/*.slide{*/
+    /*background-image: url("images/fund-raiser.jpg");*/
+    /*background-size:cover;*/
+    /*background-attachment: fixed;*/
+    /*width: 100%;*/
+/*}*/
+
+
+.donate{
+    background-color: #9A258E;
+    font-size: 20px;
+    font-family: "Harlow Solid Italic";
+    text-transform: capitalize;
+    color: white;
+}
+/*-----------down to top*/
+#topBtn{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    font-size: 22px;
+    width: 50px;
+    height: 50px;
+    background: #e74c3c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: none;
+}
+#topBtn:hover{
+    background-color: green;
+    color: black;
+}
